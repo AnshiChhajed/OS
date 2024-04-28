@@ -15,9 +15,10 @@ int main() {
     }
 
     if (c!=0) {
-        cout << "Element found in the vector." << std::endl;
-    } else {
-        cout << "Element not found in the vector." << std::endl;
+        cout << "Element found in the vector." <<endl;
+    } 
+    else {
+        cout << "Element not found in the vector." <<endl;
     }
 
     return 0;
